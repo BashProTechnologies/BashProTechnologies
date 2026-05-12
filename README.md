@@ -62,11 +62,10 @@ root@github:~$ whoami
 
 ---
 
-### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=BashProTechnologies&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&icon_color=00cc33&text_color=00aa22" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=BashProTechnologies&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&icon_color=00cc33&text_color=00aa22" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashProTechnologies&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashProTechnologies&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" /> -->
 
 <br/><br/>
 
@@ -76,7 +75,7 @@ root@github:~$ whoami
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=040d04&color=040d04)](https://linkedin.com/in/bashecurity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=040d04&color=040d04)](https://linkedin.com/in/bashsecurity)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=040d04&color=040d04)](mailto:bashprotechnologies@gmail.com)
 
 <br/>
