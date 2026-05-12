@@ -2,7 +2,7 @@
 
 <!-- SVG Banner -->
 
-<img src="./assets/banner.svg" width="100%" alt="info\_ub"/>
+<img src="./assets/banner.svg" width="100%" alt="info_ub"/>
 
 <br/>
 
