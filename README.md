@@ -5,11 +5,14 @@
 
 <br/><br/>
 
+<div align="left">
+  
 ```
-root@github:~$ whoami
+> root@github:~$ whoami
 > Ulvi Bashirli — Developer | Cyber Security
 ```
-
+  
+</div>
 <br/>
 
 ---
@@ -79,9 +82,12 @@ root@github:~$ whoami
 
 <br/>
 
+<div align="left">
+
 ```
 > Connection established. All systems operational.
 > Press any key to continue... █
 ```
 
+</div>
 </div>
