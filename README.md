@@ -1,101 +1,83 @@
 <div align="center">
 
 <!-- SVG Banner -->
+<img src="./assets/banner.svg" width="100%" alt="Ülvi Bəşirli - Developer & Cyber Security"/>
 
-<img src="./assets/banner.svg" width="100%" alt="info_ub"/>
-
-<br/>
+<br/><br/>
 
 ```
-root@github:\~$ whoami
+root@github:~$ whoami
 > Ulvi Bashirli — Developer | Cyber Security
 ```
 
-</div>
+<br/>
 
-\---
+---
 
-<div align="center">
+### 🛡️ Cyber Security & Systems
 
-### 🛡️ Cyber Security \& Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=040d04&color=040d04)
+![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=00ff41&labelColor=040d04&color=040d04)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=00ff41&labelColor=040d04&color=040d04)
 
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=kalilinux\&size=40\&animation=glow\&color=%2300ff41" alt="kalilinux" title="Kali Linux" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=splunk\&size=40\&animation=glow\&color=%2300ff41" alt="splunk" title="Splunk (SIEM)" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=wireshark\&size=40\&animation=glow\&color=%2300ff41" alt="wireshark" title="Wireshark" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linux\&size=40\&animation=glow\&color=%2300ff41" alt="linux" title="Linux" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=redhat\&size=40\&animation=glow\&color=%2300ff41" alt="redhat" title="RedHat" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=debian\&size=40\&animation=glow\&color=%2300ff41" alt="debian" title="Debian" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apple\&size=40\&animation=glow\&color=%2300ff41" alt="macos" title="MacOS" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=windows\&size=40\&animation=glow\&color=%2300ff41" alt="windows" title="Windows" />
-</p>
-
-\---
+---
 
 ### 💻 Software Engineering
 
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=c\&size=40\&animation=glow\&color=%2300ff41" alt="c" title="C" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus\&size=40\&animation=glow\&color=%2300ff41" alt="cplusplus" title="C++" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python\&size=40\&animation=glow\&color=%2300ff41" alt="python" title="Python" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy\&size=40\&animation=glow\&color=%2300ff41" alt="numpy" title="NumPy" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=pandas\&size=40\&animation=glow\&color=%2300ff41" alt="pandas" title="Pandas" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=opencv\&size=40\&animation=glow\&color=%2300ff41" alt="opencv" title="OpenCV" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=java\&size=40\&animation=glow\&color=%2300ff41" alt="java" title="Java" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript\&size=40\&animation=glow\&color=%2300ff41" alt="javascript" title="JavaScript" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react\&size=40\&animation=glow\&color=%2300ff41" alt="react" title="React" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs\&size=40\&animation=glow\&color=%2300ff41" alt="nodejs" title="Node.js" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=qt\&size=40\&animation=glow\&color=%2300ff41" alt="qt" title="Qt" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5\&size=40\&animation=glow\&color=%2300ff41" alt="html5" title="HTML5" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3\&size=40\&animation=glow\&color=%2300ff41" alt="css3" title="CSS3" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=gnubash\&size=40\&animation=glow\&color=%2300ff41" alt="bash" title="Bash" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=00ff41&labelColor=040d04&color=040d04)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=040d04&color=040d04)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00ff41&labelColor=040d04&color=040d04)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=00ff41&labelColor=040d04&color=040d04)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=040d04&color=040d04)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=00ff41&labelColor=040d04&color=040d04)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00ff41&labelColor=040d04&color=040d04)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=00ff41&labelColor=040d04&color=040d04)
 
-\---
+---
 
-### ⚙️ DevOps \& Databases
+### ⚙️ DevOps & Databases
 
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git\&size=40\&animation=glow\&color=%2300ff41" alt="git" title="Git" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github\&size=40\&animation=glow\&color=%2300ff41" alt="github" title="GitHub" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=ansible\&size=40\&animation=glow\&color=%2300ff41" alt="ansible" title="Ansible" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql\&size=40\&animation=glow\&color=%2300ff41" alt="mysql" title="MySQL" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql\&size=40\&animation=glow\&color=%2300ff41" alt="postgresql" title="PostgreSQL" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=pfsense\&size=40\&animation=glow\&color=%2300ff41" alt="pfsense" title="pfSense" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nginx\&size=40\&animation=glow\&color=%2300ff41" alt="nginx" title="Nginx" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apache\&size=40\&animation=glow\&color=%2300ff41" alt="apache" title="Apache" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=grafana\&size=40\&animation=glow\&color=%2300ff41" alt="grafana" title="Grafana" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=elasticsearch\&size=40\&animation=glow\&color=%2300ff41" alt="elasticsearch" title="Elasticsearch" />\&nbsp;\&nbsp;
-  <img src="https://www.readmecodegen.com/api/social-icon?name=wordpress\&size=40\&animation=glow\&color=%2300ff41" alt="wordpress" title="WordPress" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=040d04&color=040d04)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=00ff41&labelColor=040d04&color=040d04)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00ff41&labelColor=040d04&color=040d04)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=040d04&color=040d04)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=00ff41&labelColor=040d04&color=040d04)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=00ff41&labelColor=040d04&color=040d04)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=00ff41&labelColor=040d04&color=040d04)
 
-\---
+---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BashProTechnologies\&show\_icons=true\&theme=chartreuse-dark\&border\_color=00ff41\&bg\_color=040d04\&title\_color=00ff41\&icon\_color=00cc33\&text\_color=00aa22\&hide\_border=false" alt="GitHub Stats" />
-  \&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashProTechnologies\&layout=compact\&theme=chartreuse-dark\&border\_color=00ff41\&bg\_color=040d04\&title\_color=00ff41\&text\_color=00aa22" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&icon_color=00cc33&text_color=00aa22" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BashProTechnologies\&theme=terminal\&background=040d04\&border=00ff41\&ring=00ff41\&fire=00cc33\&currStreakLabel=00ff41\&sideLabels=00aa22\&currStreakNum=00ff41\&sideNums=00cc33\&dates=005511" alt="GitHub Streak" />
-</p>
+<br/><br/>
 
-\---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=terminal&background=040d04&border=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00aa22&currStreakNum=00ff41&sideNums=00cc33&dates=005511" alt="GitHub Streak" />
+
+---
 
 ### 🌐 Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/bashsecurity/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin\&size=40\&animation=glow\&color=%2300ff41" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  \&nbsp;\&nbsp;
-  <a href="mailto:bashprotechnologies@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail\&size=40\&animation=glow\&color=%2300ff41" alt="Email" title="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=040d04&color=040d04)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=040d04&color=040d04)](mailto:YOUR_EMAIL)
 
 <br/>
 
@@ -105,4 +87,3 @@ root@github:\~$ whoami
 ```
 
 </div>
-
