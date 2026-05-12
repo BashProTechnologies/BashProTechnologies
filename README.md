@@ -67,7 +67,7 @@ root@github:~$ whoami
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashProTechnologies&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=terminal&background=040d04&border=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00aa22&currStreakNum=00ff41&sideNums=00cc33&dates=005511" alt="GitHub Streak" /> -->
 
