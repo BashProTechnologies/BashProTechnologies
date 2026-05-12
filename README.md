@@ -64,20 +64,20 @@ root@github:~$ whoami
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&icon_color=00cc33&text_color=00aa22" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=BashProTechnologies&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&icon_color=00cc33&text_color=00aa22" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BashProTechnologies&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=040d04&title_color=00ff41&text_color=00aa22" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=terminal&background=040d04&border=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00aa22&currStreakNum=00ff41&sideNums=00cc33&dates=005511" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=terminal&background=040d04&border=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00aa22&currStreakNum=00ff41&sideNums=00cc33&dates=005511" alt="GitHub Streak" /> -->
 
 ---
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=040d04&color=040d04)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=040d04&color=040d04)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=040d04&color=040d04)](https://linkedin.com/in/bashecurity)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=040d04&color=040d04)](mailto:bashprotechnologies@gmail.com)
 
 <br/>
 
