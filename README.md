@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Banner -->
-<img src="./assets/info_ub.svg" width="100%" alt="Ulvi Bashirli - Developer & Cyber Security"/>
+<img src="https://raw.githubusercontent.com/BashProTechnologies/banners/06e4f233d3785cf9eba08ddb94d2b64032e36153/info_ub.svg" width="100%" alt="Ulvi Bashirli - Developer & Cyber Security"/>
 
 <br/><br/>
 
