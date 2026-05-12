@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SVG Banner -->
-<img src="./assets/banner.svg" width="100%" alt="Ülvi Bəşirli - Developer & Cyber Security"/>
+<img src="./assets/info_ub.svg" width="100%" alt="Ulvi Bashirli - Developer & Cyber Security"/>
 
 <br/><br/>
 
